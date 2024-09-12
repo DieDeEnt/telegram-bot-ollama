@@ -1,0 +1,1 @@
+g++ Bot.cpp -o run -I/home/die/Public/bot/include -lTgBot -lboost_system -lssl -lcrypto -lSQLiteCpp -lsqlite3 --std=c++14
